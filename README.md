@@ -14,6 +14,6 @@ e.g.) {input_dir}\DCIM\190216000\173641AA.MP4
 ```
 
 ## ライセンス
-- VideoConcatTool は[MITライセンス](https://github.com/atst1996/VideoConcatTool/blob/master/LICENSE)で配布しています。
-- 以下のソフトウェアが含まれます。ライセンスについては[NOTICE.md](https://github.com/atst1996/VideoConcatTool/blob/master/NOTICE.md)に記載しています。
+- VideoConcatTool は[MITライセンス](https://github.com/atst1996/video-concat-tool/blob/master/LICENSE)で配布しています。
+- 以下のソフトウェアが含まれます。ライセンスについては[NOTICE.md](https://github.com/atst1996/video-concat-tool/blob/master/NOTICE.md)に記載しています。
   - Command Line Parser Library for CLR and NetStandard
